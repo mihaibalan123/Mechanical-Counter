@@ -2,6 +2,7 @@
 ---
 ## Inspiration & Ideas
 * [https://www.printables.com/model/718967-mechanical-counter]
+* [https://www.youtube.com/watch?v=rjWfIiaOFR4]
 ---
 ## Project Plan
 - [ ] Application & Motivation
