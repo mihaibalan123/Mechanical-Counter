@@ -4,8 +4,8 @@ This project features a fully functional, 3D-printable mechanical counter, desig
 
 ## Inspiration & Ideas
 
-* [https://www.printables.com/model/718967-mechanical-counter]
-* [https://www.youtube.com/watch?v=rjWfIiaOFR4]
+* [https://www.printables.com/model/718967-mechanical-counter](https://www.printables.com/model/718967-mechanical-counter)
+* [https://www.youtube.com/watch?v=rjWfIiaOFR4](https://www.youtube.com/watch?v=rjWfIiaOFR4)
 
 ## How it Works
 
@@ -37,57 +37,67 @@ While all structural parts and gears are entirely 3D printed, the mechanism requ
 
 ## Components List
 
-Here is a detailed breakdown of all the 3D printed components required for this assembly:
+Here is a detailed breakdown of all the 3D printed components required for this assembly, including the quantities needed:
 
-* **Actuator (Slider):** The primary input mechanism. It slides vertically within the frame to drive the mechanism forward.
-  ![Actuator](.png/actuator.png)
+* **Actuator (Slider) - [Qty: 1]** 
+  The primary input mechanism. It slides vertically within the frame to drive the mechanism forward.
+  <p align="center"><img src=".png/actuator.png" width="300" alt="Actuator"></p>
 
-* **Driving Pawl (Piedica):** The ratcheting arm that interacts with the unit gear's teeth to advance it by one position per press.
-  ![Pawl](.png/piedica.png)
+* **Driving Pawl (Piedica) - [Qty: 1]** 
+  The ratcheting arm that interacts with the unit gear's teeth to advance it by one position per press.
+  <p align="center"><img src=".png/piedica.png" width="300" alt="Pawl"></p>
 
-* **Units Gear (Roata Unitati):** The first numerical wheel (0-9). It receives the direct input from the actuator's pawl.
-  ![Units Gear](.png/roata_unitati.png)
+* **Units Gear (Roata Unitati) - [Qty: 1]** 
+  The first numerical wheel (0-9). It receives the direct input from the actuator's pawl.
+  <p align="center"><img src=".png/roata_unitati.png" width="300" alt="Units Gear"></p>
 
-* **Tens & Hundreds Gears (Roti Zeci & Sute):** The subsequent numerical wheels that are incrementally driven by the transfer gears to count higher digits.
-  ![Tens and Hundreds Gears](.png/roti_zeci_sute.png)
+* **Tens & Hundreds Gears (Roti Zeci & Sute) - [Qty: 2]** 
+  The subsequent numerical wheels that are incrementally driven by the transfer gears to count higher digits.
+  <p align="center"><img src=".png/roti_zeci_sute.png" width="300" alt="Tens and Hundreds Gears"></p>
 
-* **Transfer Gear (Roata Mica / Pinion):** The small intermediate gear responsible for the carry-over mechanism. It automatically turns the next wheel when the previous one completes a full rotation.
-  ![Transfer Gear](.png/roata_mica.png)
+* **Transfer Gear (Roata Mica / Pinion) - [Qty: 2]** 
+  The small intermediate gear responsible for the carry-over mechanism. It automatically turns the next wheel when the previous one completes a full rotation.
+  <p align="center"><img src=".png/roata_mica.png" width="300" alt="Transfer Gear"></p>
 
-* **Main Shaft (Tija):** The central axis rod on which the main number gears freely rotate.
-  ![Shaft](.png/tija.png)
+* **Main Shaft (Tija) - [Qty: 3]** 
+  The central axis rod on which the main number gears freely rotate.
+  <p align="center"><img src=".png/tija.png" width="300" alt="Shaft"></p>
 
-* **Spacer (Distantier):** Placed on the shafts to ensure the gears maintain the correct distance and alignment from each other.
-  ![Spacer](.png/distantier.png)
+* **Spacer (Distantier) - [Qty: 2]** 
+  Placed on the shafts to ensure the gears maintain the correct distance and alignment from each other.
+  <p align="center"><img src=".png/distantier.png" width="300" alt="Spacer"></p>
 
-* **Pin:** Small connectors used for securing and aligning the frame components together.
-  ![Pin](.png/pin.png)
+* **Pin - [Qty: 2]** 
+  Small connectors used for securing and aligning the frame components together.
+  <p align="center"><img src=".png/pin.png" width="300" alt="Pin"></p>
 
-* **Display Window (Cadran Numere):** The cover panel that frames the numbers so the current count can be easily read.
-  ![Number Dial](.png/cadran_numere.png)
+* **Display Window (Cadran Numere) - [Qty: 1]** 
+  The cover panel that frames the numbers so the current count can be easily read.
+  <p align="center"><img src=".png/cadran_numere.png" width="300" alt="Number Dial"></p>
 
-* **Left Frame Panel (Rama Stanga):** The left-side structural wall of the housing, which also guides the actuator.
-  ![Left Frame](.png/rama_stanga.png)
+* **Left Frame Panel (Rama Stanga) - [Qty: 1]** 
+  The left-side structural wall of the housing, which also guides the actuator.
+  <p align="center"><img src=".png/rama_stanga.png" width="300" alt="Left Frame"></p>
 
-* **Right Frame Panel (Rama Dreapta):** The right-side structural wall of the housing.
-  ![Right Frame](.png/rama_dreapta.png)
+* **Right Frame Panel (Rama Dreapta) - [Qty: 1]** 
+  The right-side structural wall of the housing.
+  <p align="center"><img src=".png/rama_dreapta.png" width="300" alt="Right Frame"></p>
 
-* **Front & Back Frame Panels (Rama Fata/Spate):** The structural plates that enclose and secure the entire mechanism from the front and rear.
-  ![Front and Back Frame](.png/rama_fata_spate.png)
+* **Front & Back Frame Panels (Rama Fata/Spate) - [Qty: 2]** 
+  The structural plates that enclose and secure the entire mechanism from the front and rear.
+  <p align="center"><img src=".png/rama_fata_spate.png" width="300" alt="Front and Back Frame"></p>
 
-  ## Full Assembly Views
+## Full Assembly Views
 
 Below are several views of the fully assembled mechanical counter, showcasing how all the components fit and interact together:
 
-![Assembly View 1](.png/ansamblu1.png)
-
-![Assembly View 2](.png/ansamblu2.png)
-
-![Assembly View 3](.png/ansamblu3.png)
-
-![Assembly View 4](.png/ansamblu4.png)
-
-![Assembly View 5](.png/ansamblu5.png)
+<p align="center">
+  <img src=".png/ansamblu1.png" width="600" alt="Assembly View 1"><br><br>
+  <img src=".png/ansamblu2.png" width="600" alt="Assembly View 2"><br><br>
+  <img src=".png/ansamblu3.png" width="600" alt="Assembly View 3"><br><br>
+  <img src=".png/ansamblu4.png" width="600" alt="Assembly View 4"><br><br>
+  <img src=".png/ansamblu5.png" width="600" alt="Assembly View 5">
+</p>
 
 ## Conclusion & Limitations
 
