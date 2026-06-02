@@ -126,7 +126,7 @@ To provide a clearer visualization of the final product, here are a few high-qua
 
 To better illustrate how the mechanical counter operates, I have recorded a video showcasing its full functionality. The video demonstrates the Fusion 360 motion links in action, verifying the gear ratios and showing how the components are assembled to work together.
 
-*Click on the image above to watch the video demonstration, or [click here for the direct YouTube link](https://youtu.be/mkegou3ErKw).*
+*[Click here for the direct YouTube link](https://youtu.be/mkegou3ErKw).*
 
 ## Conclusion & Limitations
 
