@@ -104,10 +104,10 @@ Below are several views of the fully assembled mechanical counter, showcasing ho
 To provide a clearer visualization of the final product, here are a few high-quality renders generated in Fusion 360. These images showcase the expected surface finish, material appearance, and overall aesthetic of the assembled mechanical counter.
 
 <p align="center">
-  <img src="randare1.png" width="400" alt="Render 1">
-  <img src="randare2.png" width="400" alt="Render 2"><br><br>
-  <img src="randare3.png" width="400" alt="Render 3">
-  <img src="randare4.png" width="400" alt="Render 4">
+  <img src=".png/randare1.png" width="400" alt="Render 1">
+  <img src=".png/randare2.png" width="400" alt="Render 2"><br><br>
+  <img src=".png/randare3.png" width="400" alt="Render 3">
+  <img src=".png/randare4.png" width="400" alt="Render 4">
 </p>
 
 ## Functionality Showcase
