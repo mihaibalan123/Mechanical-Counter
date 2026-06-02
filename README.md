@@ -99,6 +99,18 @@ Below are several views of the fully assembled mechanical counter, showcasing ho
   <img src=".png/ansamblu5.png" width="600" alt="Assembly View 5">
 </p>
 
+## PrusaSlicer Build Plates
+
+To ensure optimal 3D printing results, all components have been carefully arranged in PrusaSlicer. Below are the prepared build plates, showcasing the recommended orientation and layout of the parts, ready for FDM printing.
+
+<p align="center">
+  <img src=".png/prusa1.jpeg" width="400" alt="Build Plate 1">
+  <img src=".png/prusa2.jpeg" width="400" alt="Build Plate 2"><br><br>
+  <img src=".png/prusa3.jpeg" width="400" alt="Build Plate 3">
+  <img src=".png/prusa4.jpeg" width="400" alt="Build Plate 4"><br><br>
+  <img src=".png/prusa5.jpeg" width="400" alt="Build Plate 5">
+</p>
+
 ## Project Renders
 
 To provide a clearer visualization of the final product, here are a few high-quality renders generated in Fusion 360. These images showcase the expected surface finish, material appearance, and overall aesthetic of the assembled mechanical counter.
