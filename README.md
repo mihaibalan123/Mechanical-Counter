@@ -99,6 +99,17 @@ Below are several views of the fully assembled mechanical counter, showcasing ho
   <img src=".png/ansamblu5.png" width="600" alt="Assembly View 5">
 </p>
 
+## Project Renders
+
+To provide a clearer visualization of the final product, here are a few high-quality renders generated in Fusion 360. These images showcase the expected surface finish, material appearance, and overall aesthetic of the assembled mechanical counter.
+
+<p align="center">
+  <img src="randare1.png" width="400" alt="Render 1">
+  <img src="randare2.png" width="400" alt="Render 2"><br><br>
+  <img src="randare3.png" width="400" alt="Render 3">
+  <img src="randare4.png" width="400" alt="Render 4">
+</p>
+
 ## Functionality Showcase
 
 To better illustrate how the mechanical counter operates, I have recorded a video showcasing its full functionality. The video demonstrates the Fusion 360 motion links in action, verifying the gear ratios and showing how the components are assembled to work together.
