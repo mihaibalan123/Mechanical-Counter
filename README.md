@@ -99,9 +99,16 @@ Below are several views of the fully assembled mechanical counter, showcasing ho
   <img src=".png/ansamblu5.png" width="600" alt="Assembly View 5">
 </p>
 
+## Functionality Showcase
+
+To better illustrate how the mechanical counter operates, I have recorded a video showcasing its full functionality. The video demonstrates the Fusion 360 motion links in action, verifying the gear ratios and showing how the components are assembled to work together.
+
+[![Mechanical Counter Functionality Showcase](https://img.youtube.com/vi/mkegou3ErKw/maxresdefault.jpg)](https://youtu.be/mkegou3ErKw)
+
+*Click on the image above to watch the video demonstration, or [click here for the direct YouTube link](https://youtu.be/mkegou3ErKw).*
+
 ## Conclusion & Limitations
 
-**Conclusion**
 This project successfully demonstrates the design, simulation, and assembly of a 3D-printable mechanical counter. By utilizing Fusion 360's precise modeling and motion studies, combined with careful DfAM (Design for Additive Manufacturing) considerations, the resulting mechanism effectively replicates a classic odometer system using basic printed parts and a single metal spring. 
 
 **Limitations: Manual Reset**
